@@ -35,5 +35,5 @@
 ---
 
 <p align="center">
-  <img alt="MindAI Logo" src="https://github.com/mindaiworks/.github/blob/main/logos/MindAI_Logo.png" width="200"/>
+  <img alt="MindAI Logo" src="https://github.com/mindaiworks/.github/blob/main/logos/MindAI_Logo.png" width="300"/>
 </p>
