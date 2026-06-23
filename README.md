@@ -26,3 +26,6 @@
 <p align="center">
   <a href="MindAI/MindAIen.md">Mind AI: The Eternal Path to AGI [ppt]</a>
 </p>
+<p align="center" float="left">
+  <img alt="MindAI Logo" src="https://github.com/mindaiworks/.github/blob/main/logos/MindAI_Logo.png" />
+</p>
