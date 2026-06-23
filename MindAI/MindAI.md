@@ -19,4 +19,4 @@
 <p align="center" float="left"><img  src="CHT_IMG/19.PNG" /></p>
 <p align="center" float="left"><img  src="CHT_IMG/20.PNG" /></p>
 <p align="center" float="left"><img  src="CHT_IMG/21.PNG" /></p>
-<p align="center" float="left"><img  src="CHT_IMG/22.PNG" /></p>
+<p align="center" float="left"><img  src="CHT_IMG/22.png" /></p>
