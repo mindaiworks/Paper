@@ -18,6 +18,9 @@
   <a href="The_AGI_Way/AGI_WAY_en.md">The Eternal Path to AGI [md]</a>
 </p>
 <p align="center">
+  <a href="The_AGI_Way/AGIen.md">The Eternal Path to AGI [ppt]</a>
+</p>
+<p align="center">
   <a href="MindAI/MindAI_en.md">Mind AI: The Eternal Path to AGI [md]</a>
 </p>
 <p align="center">
