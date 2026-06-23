@@ -14,24 +14,19 @@ Current artificial intelligence (AI) technologies, driven by large language mode
 ---
 
 ## Theoretical Foundation: The Dual Pillars of Mathematics and Typeology
-### Mathematics (數)
+### Mathematics
 - Describes quantities, relationships, and patterns.  
 - Core mechanism: computation and statistics.  
 - The primary basis of current AI technologies.  
 
-### Typeology (形)
+### Typeology
 - Describes structures, composition, and essence.  
 - Core mechanism: reasoning and evolution.  
 - Long overlooked, yet the missing piece for AGI.  
 
 **Cognitive Equation:**  
 
-
-\[
-\text{Human Intelligence} = \text{Mathematics (數)} + \text{Typeology (形)}
-\]
-
-
+##AGI = Mathematics + Typeology<p>
 
 ---
 
