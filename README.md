@@ -17,5 +17,8 @@
   <a href="MindAI/MindAI_en.md">Mind AI: The Eternal Path to AGI [md]</a>
 </p>
 <p align="center">
-  <a href="MindAI/MindAI.md">Mind AI [ppt]</a>
+  <a href="MindAI/MindAI.md">Mind AI 通往 AGI 的永恆之道 [ppt]</a>
+</p>
+<p align="center">
+  <a href="MindAI/MindAIen.md">Mind AI: The Eternal Path to AGI [ppt]</a>
 </p>
