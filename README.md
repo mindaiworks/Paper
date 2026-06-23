@@ -1,4 +1,4 @@
-# 🌌 Mind AI Works
+# 🌌 Mind AI
 
 <p align="center">
   <a href="https://github.com/mindaiworks">🏠 Home</a>
