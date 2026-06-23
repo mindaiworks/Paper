@@ -129,6 +129,6 @@ Mind AI 的「永恆之道」是一條超越算力與參數的道路。
 
 ---
 
-### Roadmap
+### Release Timeline:
 
 * 2026/08 Beta 1 → 2026/09 Beta 2 → 2026/10 Release
