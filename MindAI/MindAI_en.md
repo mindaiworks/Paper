@@ -26,7 +26,7 @@ Current artificial intelligence (AI) technologies, driven by large language mode
 
 **Cognitive Equation:**  
 
-###AGI = Mathematics + Typeology<p>
+### AGI = Mathematics + Typeology
 
 ---
 
