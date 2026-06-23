@@ -8,29 +8,21 @@
 
 ## 📖 中文版本
 
-<p align="center">
-  <a href="The_AGI_Way/AGI_WAY.md">AGI 的永恆之道 [Markdown]</a> ｜ 
-  <a href="The_AGI_Way/AGI.md">AGI 的永恆之道 [PPT]</a>
-</p>
+- [AGI 的永恆之道 (Markdown)](The_AGI_Way/AGI_WAY.md)  
+- [AGI 的永恆之道 (PPT)](The_AGI_Way/AGI.md)  
 
-<p align="center">
-  <a href="MindAI/MindAI_cht.md">Mind AI 通往 AGI 的永恆之道 [Markdown]</a> ｜ 
-  <a href="MindAI/MindAI.md">Mind AI 通往 AGI 的永恆之道 [PPT]</a>
-</p>
+- [Mind AI 通往 AGI 的永恆之道 (Markdown)](MindAI/MindAI_cht.md)  
+- [Mind AI 通往 AGI 的永恆之道 (PPT)](MindAI/MindAI.md)  
 
 ---
 
 ## 🌍 English Version
 
-<p align="center">
-  <a href="The_AGI_Way/AGI_WAY_en.md">The Eternal Path to AGI [Markdown]</a> ｜ 
-  <a href="The_AGI_Way/AGIen.md">The Eternal Path to AGI [PPT]</a>
-</p>
+- [The Eternal Path to AGI (Markdown)](The_AGI_Way/AGI_WAY_en.md)  
+- [The Eternal Path to AGI (PPT)](The_AGI_Way/AGIen.md)  
 
-<p align="center">
-  <a href="MindAI/MindAI_en.md">Mind AI: The Eternal Path to AGI [Markdown]</a> ｜ 
-  <a href="MindAI/MindAIen.md">Mind AI: The Eternal Path to AGI [PPT]</a>
-</p>
+- [Mind AI: The Eternal Path to AGI (Markdown)](MindAI/MindAI_en.md)  
+- [Mind AI: The Eternal Path to AGI (PPT)](MindAI/MindAIen.md)  
 
 ---
 
