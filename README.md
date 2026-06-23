@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/mindaiworks">* * * Home* * * </a>
 </p>
-#中文
+# 中文
 <p align="center">
   <a href="The_AGI_Way/AGI_WAY.md"> AGI的永恆之道  [md]</a>
 </p>
@@ -14,7 +14,7 @@
 <p align="center">
   <a href="MindAI/MindAI.md">Mind AI 通往 AGI 的永恆之道 [ppt]</a>
 </p>
-#English
+# English
 <p></p>
 <p align="center">
   <a href="The_AGI_Way/AGI_WAY_en.md">The Eternal Path to AGI [md]</a>
