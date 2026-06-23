@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/mindaiworks">* * * Home* * * </a>
+#   <a href="https://github.com/mindaiworks">* * * Home* * * </a>
 </p>
 # 中文
 <p align="center">
