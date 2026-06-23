@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://github.com/mindaiworks">Home</a>
+  <a href="https://github.com/mindaiworks">* * * Home* * * </a>
 </p>
 <p align="center">
-  <a href="The_AGI_Way/AGI_WAY.md">* AGI的永恆之道*  [md]</a>
+  <a href="The_AGI_Way/AGI_WAY.md"> AGI的永恆之道  [md]</a>
 </p>
 <p align="center">
   <a href="The_AGI_Way/AGI.md">AGI的永恆之道 [ppt]</a>
