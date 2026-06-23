@@ -10,6 +10,11 @@
 <p align="center">
   <a href="The_AGI_Way/AGI_WAY_en">The AGI Way [md]</a>
 </p>
+<p align="center">
+  <a href="MindAI/MindAI_cht.md">Mind AI 通往 AGI 的永恆之道 [md]</a>
+</p>
+
+
 
 <p align="center">
   <a href="MindAI/MindAI.md">Mind AI [ppt]</a>
