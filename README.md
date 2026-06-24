@@ -1,5 +1,3 @@
-# 🌌 Mind AI
-
 <p align="center">
   <a href="https://github.com/mindaiworks">🏠 Home</a>
 </p>
@@ -9,7 +7,8 @@
 ## 📖 中文版本
 
 - [AGI 的永恆之道 (Markdown)](The_AGI_Way/AGI_WAY.md)  
-- [AGI 的永恆之道 (PPT)](The_AGI_Way/AGI.md)  
+- [AGI 的永恆之道 (PPT)](The_AGI_Way/AGI.md)
+- [AGI 的永恆之道 (youtu)](https://youtu.be/QdWvDqRdEgg)
 
 - [Mind AI 通往 AGI 的永恆之道 (Markdown)](MindAI/MindAI_cht.md)  
 - [Mind AI 通往 AGI 的永恆之道 (PPT)](MindAI/MindAI.md)  
