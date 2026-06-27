@@ -20,3 +20,8 @@
 <p align="center" float="left"><img  src="EN_IMG/20.PNG" /></p>
 <p align="center" float="left"><img  src="EN_IMG/21.PNG" /></p>
 <p align="center" float="left"><img  src="EN_IMG/22.PNG" /></p>
+<p align="center" float="left"><img  src="EN_IMG/23.PNG" /></p>
+<p align="center" float="left"><img  src="EN_IMG/24.PNG" /></p>
+<p align="center" float="left"><img  src="EN_IMG/25.PNG" /></p>
+<p align="center" float="left"><img  src="EN_IMG/26.PNG" /></p>
+<p align="center" float="left"><img  src="EN_IMG/27.PNG" /></p>
