@@ -9,7 +9,7 @@
 - [AGI 的永恆之道 (youtube)](https://youtu.be/QdWvDqRdEgg)
 - [AGI 的永恆之道 (Markdown)](The_AGI_Way/AGI_WAY.md)  
 - [AGI 的永恆之道 (PPT)](The_AGI_Way/AGI.md)
--
+##
 - [Mind AI 通往 AGI 的永恆之道 (youtube)](https://youtu.be/_UtCHOxdmeY)  
 - [Mind AI 通往 AGI 的永恆之道 (Markdown)](MindAI/MindAI_cht.md)  
 - [Mind AI 通往 AGI 的永恆之道 (PPT)](MindAI/MindAI.md)  
