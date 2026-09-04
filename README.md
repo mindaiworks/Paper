@@ -12,7 +12,9 @@
 ##
 - [Mind AI 通往 AGI 的永恆之道 (youtube)](https://youtu.be/_UtCHOxdmeY)  
 - [Mind AI 通往 AGI 的永恆之道 (Markdown)](MindAI/MindAI_cht.md)  
-- [Mind AI 通往 AGI 的永恆之道 (PPT)](MindAI/MindAI.md)  
+- [Mind AI 通往 AGI 的永恆之道 (PPT)](MindAI/MindAI.md)
+##
+- [本形學-形與數 (PPT)](Ontypology/本形學-形與數.pdf)
 
 ---
 
