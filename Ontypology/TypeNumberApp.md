@@ -13,3 +13,6 @@
 <p align="center">
   <img alt="MindAI Logo" src="TypeNumberPic/5.png" width="800"/>
 </p>
+<p align="center">
+[下載](The_AGI_Way/AGI.md)
+</p>
