@@ -16,7 +16,7 @@
 ##
 - [本形學-形與數 (PPT)](Ontypology/本形學-形與數.pdf)
 ##
-[基於物料清單的知識圖譜建構與多來源資料整合方法](Knowledge%20Graph%20Bom)
+- [基於物料清單的知識圖譜建構與多來源資料整合方法](Knowledge%20Graph%20Bom)
 
 ---
 
