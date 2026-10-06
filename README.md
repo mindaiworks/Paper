@@ -14,7 +14,8 @@
 - [Mind AI 通往 AGI 的永恆之道 (Markdown)](MindAI/MindAI_cht.md)  
 - [Mind AI 通往 AGI 的永恆之道 (PPT)](MindAI/MindAI.md)
 ##
-- [本形學-形與數 (PPT)](Ontypology)
+- [本形學-形與數](Ontypology)
+- [本形學-空間本形篇](Ontypology/OntypologySpace)
 ##
 - [基於物料清單的知識圖譜建構與多來源資料整合方法](Knowledge%20Graph%20Bom)
 
