@@ -20,3 +20,4 @@
 <p align="center" float="left"><img  src="CHT_PIC/20.png" /></p>
 <p align="center" float="left"><img  src="CHT_PIC/21.png" /></p>
 <p align="center" float="left"><img  src="CHT_PIC/22.png" /></p>
+<p align="center" float="left"><img  src="../TypeNumber/16.PNG" /></p>
