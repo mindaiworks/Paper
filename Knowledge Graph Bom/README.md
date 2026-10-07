@@ -13,4 +13,4 @@
 <p align="center" float="left"><img  src="CHT_IMG/13.PNG" /></p>
 <p align="center" float="left"><img  src="CHT_IMG/14.PNG" /></p>
 <p align="center" float="left"><img  src="CHT_IMG/15.PNG" /></p>
-<p align="center" float="left"><img  src="CHT_IMG/16.PNG" /></p>
+<p align="center" float="left"><img  src="https://github.com/mindaiworks/.github/blob/main/logos/LonGreat.png" /></p>
