@@ -20,4 +20,4 @@
 <p align="center" float="left"><img  src="CHT_PIC/20.png" /></p>
 <p align="center" float="left"><img  src="CHT_PIC/21.png" /></p>
 <p align="center" float="left"><img  src="CHT_PIC/22.png" /></p>
-<p align="center" float="left"><img  src="https://github.com/mindaiworks/Paper/blob/main/LonGreat.png" /></p>
+<p align="center" float="left"><img  src="https://github.com/mindaiworks/.github/blob/main/logos/LonGreat.png" /></p>
