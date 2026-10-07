@@ -13,4 +13,4 @@
 <p align="center" float="left"><img  src="TypeNumber/13.PNG" /></p>
 <p align="center" float="left"><img  src="TypeNumber/14.PNG" /></p>
 <p align="center" float="left"><img  src="TypeNumber/15.PNG" /></p>
-<p align="center" float="left"><img  src="https://github.com/mindaiworks/Paper/blob/main/LonGreat.png" /></p>
+<p align="center" float="left"><img  src="https://github.com/mindaiworks/.github/blob/main/logos/LonGreat.png" /></p>
