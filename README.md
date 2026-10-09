@@ -4,7 +4,11 @@
 
 ---
 
+- [Ontypology 本形學](https://github.com/mindaiworks/Ontypology)
+
 ## 📖 中文版本
+
+
 
 - [AGI 的永恆之道 (youtube)](https://youtu.be/QdWvDqRdEgg)
 - [AGI 的永恆之道 (Markdown)](The_AGI_Way/AGI_WAY.md)  
