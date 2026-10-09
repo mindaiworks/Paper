@@ -4,7 +4,7 @@
 
 ---
 
-- [Ontypology 本形學](https://github.com/mindaiworks/Ontypology)
+# [Ontypology 本形學](https://github.com/mindaiworks/Ontypology)
 
 ## 📖 中文版本
 
