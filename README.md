@@ -1,10 +1,11 @@
 <p align="center">
   <a href="https://github.com/mindaiworks">🏠 Home</a>
+  <a href="https://github.com/mindaiworks/Ontypology">📖本形学　Ontypology</a>
 </p>
 
 ---
 
-# :star:[Ontypology 本形學](https://github.com/mindaiworks/Ontypology):star:
+# :star:Mind AI:star:
 
 ## 📖 中文版本
 
