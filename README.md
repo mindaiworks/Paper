@@ -7,7 +7,9 @@
 
 ## 📖 中文版本
 
-
+<p align="center" float="left">
+  <img alt="MindAI Logo" src="https://github.com/mindaiworks/Ontypology/blob/main/%E6%9C%AC%E5%BD%A2%E5%AD%B8-%E7%A9%BA%E9%96%93%E6%9C%AC%E5%BD%A2/MIND.jpg" />
+</p>
 
 - [AGI 的永恆之道 (youtube)](https://youtu.be/QdWvDqRdEgg)
 - [AGI 的永恆之道 (Markdown)](The_AGI_Way/AGI_WAY.md)  
