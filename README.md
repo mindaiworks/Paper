@@ -1,11 +1,11 @@
-# :star:Mind AI:star:
+
 <p align="center">
   <a href="https://github.com/mindaiworks">🏠 Home</a>
   <a href="https://github.com/mindaiworks/Ontypology">📖本形学　Ontypology</a>
 </p>
 
 
-
+# :star:Mind AI:star:
 
 <p align="center" float="left">
   <img alt="MindAI Logo" src="https://github.com/mindaiworks/Ontypology/blob/main/%E6%9C%AC%E5%BD%A2%E5%AD%B8-%E7%A9%BA%E9%96%93%E6%9C%AC%E5%BD%A2/MIND.jpg" />
