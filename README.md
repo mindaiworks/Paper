@@ -22,7 +22,7 @@
 - [Mind AI 通往 AGI 的永恆之道 (PPT)](MindAI/MindAI.md)
 
 ##
-- [LLM vs Mind Model (物理AI, 工業級AI,世界模型)](MindAI/LLM%20vs%20Mind%20Model)｜ <a href="https://youtu.be/F-DhYt2M48s">💻視頻</a> 
+- [LLM vs Mind Model (物理AI, 工業級AI,世界模型)](MindAI/LLM%20vs%20Mind%20Model)｜ <a href="https://youtu.be/F-DhYt2M48s">💻視頻</a>  ｜<a href="https://youtu.be/57KQ8G8-ib4">⏯️簡報視頻</a>
 
 - [基於物料清單的知識圖譜建構與多來源資料整合方法](Knowledge%20Graph%20Bom)
 
