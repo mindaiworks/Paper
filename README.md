@@ -17,7 +17,7 @@
 - [AGI 的永恆之道 (Markdown)](The_AGI_Way/AGI_WAY.md)  
 - [AGI 的永恆之道 (PPT)](The_AGI_Way/AGI.md)
 ##
-- [Mind AI 通往 AGI 的永恆之道](MindAI)｜ <a href="https://youtu.be/TDAEdZ3478U">💻視頻</a>
+- [Mind AI 簡介](MindAI)｜ <a href="https://youtu.be/TDAEdZ3478U">💻視頻</a>
 
 
 ##
