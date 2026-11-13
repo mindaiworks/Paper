@@ -17,9 +17,8 @@
 - [AGI 的永恆之道 (Markdown)](The_AGI_Way/AGI_WAY.md)  
 - [AGI 的永恆之道 (PPT)](The_AGI_Way/AGI.md)
 ##
-- [Mind AI 通往 AGI 的永恆之道 (youtube)](https://youtu.be/_UtCHOxdmeY)  
-- [Mind AI 通往 AGI 的永恆之道 (Markdown)](MindAI/MindAI_cht.md)  
-- [Mind AI 通往 AGI 的永恆之道 (PPT)](MindAI/MindAI.md)
+- [Mind AI 通往 AGI 的永恆之道](MindAI)｜ <a href="https://youtu.be/TDAEdZ3478U">💻視頻</a>
+
 
 ##
 - [LLM vs Mind Model (物理AI, 工業級AI,世界模型)](MindAI/LLM%20vs%20Mind%20Model)｜ <a href="https://youtu.be/F-DhYt2M48s">💻視頻</a>  ｜<a href="https://youtu.be/57KQ8G8-ib4">⏯️簡報視頻</a>
